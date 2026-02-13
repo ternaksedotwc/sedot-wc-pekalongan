@@ -1,5 +1,5 @@
 ﻿site:
-  name: 'Sedot WC Pekalongan Murah - Layanan Bersih & Rapi'
+  name: 'Sedot WC Pekalongan'
   site: 'https://example.com' # Nanti Cloudflare akan otomatis menyesuaikan
   base: '/'
   trailingSlash: false
@@ -9,14 +9,14 @@
 # Default SEO metadata
 metadata:
   title:
-    default: 'Sedot WC Pekalongan Murah - Layanan Bersih & Rapi'
+    default: 'Sedot WC Pekalongan'
     template: '%s â€” Sedot WC PEKALONGAN'
   description: "Tukang Sedot WC PEKALONGAN profesional. Melayani sedot septic tank penuh, pelancaran saluran mampet, dan limbah industri. Respon cepat & harga transparan!"
   robots:
     index: false
     follow: true
   openGraph:
-    site_name: 'Sedot WC Pekalongan Murah - Layanan Bersih & Rapi'
+    site_name: 'Sedot WC Pekalongan'
     images:
       - url: '~/assets/images/default.png'
         width: 1200
@@ -44,19 +44,19 @@ apps:
 
     list:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Pekalongan' 
       robots:
         index: false
 
     category:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Pekalongan' 
       robots:
         index: false
 
     tag:
       isEnabled: true
-      pathname: 'blog' 
+      pathname: 'Sedot WC Pekalongan' 
       robots:
         index: false
 
@@ -70,6 +70,7 @@ analytics:
 
 ui:
   theme: 'light' # Untuk jasa sedot WC, tema "Light" biasanya terlihat lebih bersih dan terpercaya
+
 
 
 
